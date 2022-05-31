@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<head>
+<style>
+.image-txt-container {
+  display:flex;
+  align-items:center;
+  flex-direction: row;
+}
+.item-image {
+  margin: 0px 20px 0px 0px;
+  width: 200px;
+}
+.profile-image {
+  margin: 0px 0px 0px 20px;
+  width: 300px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="image-txt-container">
+	<div>
+<h2>Biography</h2>
+I am a junior undergraduate in the department of computer science and technology of Nanjing University. My main research interests are deep learning methods in computer version, such as visual tracking and object detection. I am also interested in manifold learning for dimension reduction.
+<br><br>
+<b>News:</b> A paper accepted in IJCAI 2020.
+<br><br><b>[<a href="lsy@smail.nju.edu.cn">Email</a>] [<a href="https://github.com/Lupin1998/">GitHub</a>] </b>
+	</div>
+<img src="./img/kun.jpg" class="profile-image">
+</div>
+
+	<h2>Research</h2>
+
+Selected research projects and papers.
+
+
+<h3><b>IJCAI 2020:</b> <a href="https://github.com/Lupin1998/TLPG_Tracker">TLPG-Tracker: Joint Learning of Traget Localization and Proposal Generation for Visual Tracking</a></h3>
+<div class="image-txt-container">
+<img src="./img/TLPG.png" class="item-image">
+	<div>
+		Target localization and proposal generation are two essential subtasks in generic visual tracking, and it is a challenge to address both the two efficiently. In this paper, we propose an efficient two-stage architecture which makes full use of the complementarity of two subtasks to achieve robust localization and high-quality proposals generation of the target jointly. Specifically, our model performs a novel deformable central correlation operation by an online learning model in both two stages to locate new target centers while generating target proposals in the vicinity of these centers. The proposals are refined in the refinement stage to further improve accuracy and robustness. Moreover, the model benefits from multi-level features aggregation in a neck module and a feature enhancement module.
+		<br> <b>[<a href="https://github.com/Lupin1998/TLPG_Tracker">Paper</a>] [<a href="https://github.com/Lupin1998/TLPG_Tracker">GitHub</a>] </b>
+</div></div>
+
+
+<h2>Publications</h2>
+None.
+
+</body>
+
