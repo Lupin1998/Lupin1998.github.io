@@ -1,6 +1,6 @@
 ## Biography
 
-I am a Ph.D. candidate at Westlake University. My main research interests are self-supervised learning and general data augmentation. I am also interested in manifold learning for dimension reduction.
+I am a Ph.D. candidate at Westlake University & Zhejiang University. My main research interests are AIGC, self-supervised learning, Data-Centric AL (weakly supervision and data augmentation), and DNN optimization. I am also interested in AI for Science (AI4S) applications and manifold learning.
 
 [[Contact details](lisiyuan@westlake.edu.cn)]
 [[Home page](https://lupin1998.github.io/)]
